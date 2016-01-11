@@ -1,1 +1,1 @@
-# wpminishopq
+# wpminishop
